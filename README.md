@@ -6,7 +6,6 @@ bagian menu Ig jika sudah login dan gagal
 
 coba run kan lagi 
 
-# jika blm program tidak akan berjalan
 
 pkg update && pkg upgrade
 
