@@ -27,7 +27,7 @@ git clone https://github.com/Mbokey/elite
 
 cd elite
 
-python3 elite
+python3 elite.py
 
 note bahan : modul 2 jika pemula modul 1 terlebih dulu
 
